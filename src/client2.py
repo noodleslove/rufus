@@ -1,4 +1,4 @@
-# rufus/client2.py
+# src/client2.py
 import os
 import time
 import json

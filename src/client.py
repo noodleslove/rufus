@@ -1,5 +1,4 @@
-# rufus/client.py
-import os
+# src/client.py
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
