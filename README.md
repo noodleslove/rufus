@@ -12,6 +12,20 @@ Rufus is an AI-powered web scraping tool designed specifically for preparing web
 - 📊 Relevance scoring for extracted content
 - 🎯 Instruction-based targeted scraping
 
+## Setup
+
+Create the environment from the environment.yml file:
+
+```bash
+conda env create -f environment.yml
+```
+
+Activate the environment:
+
+```bash
+conda activate ruf
+```
+
 ## Quick Start
 
 ```python
